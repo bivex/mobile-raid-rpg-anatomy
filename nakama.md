@@ -132,6 +132,73 @@ volumes:
 
 ---
 
+
+## 🔧 Готовые модули и шаблоны на GitHub
+
+### Официальные шаблоны от HeroicLabs
+
+- **[nakama-project-template](https://github.com/heroiclabs/nakama-project-template)** (⭐ 151)
+  Пример проекта с кастомным серверным кодом. Отличная отправная точка для изучения RPC, storage, matchmaking и других возможностей Nakama.
+
+- **[unity-sampleproject](https://github.com/heroiclabs/unity-sampleproject)** (⭐ 150)
+  Sample game "Pirate Panic" для Unity engine. Полный пример интеграции Nakama с Unity, включая аутентификацию, чат, матчи и лидерборды.
+
+- **[fishgame-godot](https://github.com/heroiclabs/fishgame-godot)** (⭐ 263)
+  2-4 player online multiplayer game для Godot. Демонстрация реального времени, matchmaking и state sync в Nakama.
+
+- **[fishgame-unity](https://github.com/heroiclabs/fishgame-unity)** (⭐ 67)
+  Fish Game для Unity. Аналогичная демка для Unity engine.
+
+### TypeScript Templates
+
+- **[nakama-typescript-example](https://github.com/orta/nakama-typescript-example)** (⭐ 15)
+  Пример Nakama сервера с современным TypeScript tooling (2022). Использует Rollup для сборки.
+
+- **[nakama-ts-template](https://github.com/HanhThong/nakama-ts-template)** (⭐ 4)
+  Шаблон для Nakama TypeScript runtime. Базовая структура проекта с примерами RPC функций.
+
+- **[nakama-rollup-ts](https://github.com/tailam1990/nakama-rollup-ts)** (⭐ 4)
+  Nakama + TypeScript + Rollup Template. Удобный шаблон с преднастроенной сборкой.
+
+### Клиентские библиотеки
+
+- **[nakama-unity](https://github.com/heroiclabs/nakama-unity)** (⭐ 466)
+  Официальный клиент Nakama для Unity (C#). Полная документация и примеры.
+
+- **[nakama-godot](https://github.com/heroiclabs/nakama-godot)** (⭐ 735)
+  GDScript клиент для Nakama на Godot engine. Самый популярный Godot интеграционный проект.
+
+- **[nakama-unreal](https://github.com/heroiclabs/nakama-unreal)** (⭐ 249)
+  C++ клиент для Unreal Engine. Подходит для мобильных и PC игр.
+
+- **[nakama-dart](https://github.com/heroiclabs/nakama-dart)** (⭐ 235)
+  Pure Dart клиент для Flutter и других Dart приложений.
+
+- **[nakama-js](https://github.com/heroiclabs/nakama-js)** (⭐ 218)
+  JavaScript клиент на TypeScript. Работает в браузере, Node.js и React Native.
+
+### Плагины и модули
+
+- **[solar2d-nakama](https://github.com/StevenWarren/solar2d-nakama)** (⭐ 6)
+  Nakama plugin для Solar2D game engine.
+
+- **[nakama-plugin-sfdx](https://github.com/Nakama-Partnering-Services/nakama-plugin-sfdx)** (⭐ 5)
+  SFDX plugin для улучшения разработки и CI/CD процессов.
+
+### Примеры Battle систем
+
+- **[One-Piece-Game-Nakama-Battle](https://github.com/Hydegustaman/One-Piece-Game-Nakama-Battle)** (⭐ 1)
+  Пример боевой системы на Nakama. Интеграция с One Piece тематикой.
+
+### Полезные инструменты
+
+- **[nakama-docs](https://github.com/heroiclabs/nakama-docs)** (⭐ 42)
+  Официальная документация Nakama. Исходники документации для поиска по коду.
+
+- **[hiro](https://github.com/heroiclabs/hiro)** (⭐ 51)
+  Game framework для быстрой разработки мобильных игр на Nakama. Включает готовые механики и системы.
+
+
 ## 📚 Дополнительные ресурсы
 
 - [Nakama Documentation](https://heroiclabs.com/docs/)
